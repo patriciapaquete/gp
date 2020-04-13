@@ -1,0 +1,19 @@
+{
+  "name": "ipsvoluntariado",
+  "version": "1.0.0",
+  "description": "Web application para o projeto de GP, Voluntariado IPS",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patriciapaquete/gp.git"
+  },
+  "author": "Hugo Modesto, Patricia Paquete, Patricia Guerreiro, Joao Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patriciapaquete/gp/issues"
+  },
+  "homepage": "https://github.com/patriciapaquete/gp#readme"
+}
